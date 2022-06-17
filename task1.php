@@ -2,5 +2,5 @@
 
 function binarySum()
 {
-    return 123;
+    return '123';
 }
